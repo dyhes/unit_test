@@ -1,0 +1,6 @@
+projectKey=unit3
+serverUrl=http://localhost:8080
+serverVersion=9.7.1.62043
+dashboardUrl=http://localhost:8080/dashboard?id=unit3
+ceTaskId=AYT2t9oYZjBE03O9PbrL
+ceTaskUrl=http://localhost:8080/api/ce/task?id=AYT2t9oYZjBE03O9PbrL
